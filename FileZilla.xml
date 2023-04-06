@@ -174,15 +174,15 @@
 		<Setting name="Window position and size">1 83 25 1184 569 </Setting>
 		<Setting name="Remote filelist colwidths">244 75 80 176 80 85</Setting>
 		<Setting name="File associations (v2)" platform="win">. "C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2302.16.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe" %f
-css "C:\Users\jeffersonlopes\AppData\Local\Programs\Microsoft VS Code\Code.exe"
-htm "C:\Users\jeffersonlopes\AppData\Local\Programs\Microsoft VS Code\Code.exe"
-html "C:\Users\jeffersonlopes\AppData\Local\Programs\Microsoft VS Code\Code.exe"
-ini "C:\Users\jeffersonlopes\AppData\Local\Programs\Microsoft VS Code\Code.exe"
-js "C:\Users\jeffersonlopes\AppData\Local\Programs\Microsoft VS Code\Code.exe"
-json "C:\Users\jeffersonlopes\AppData\Local\Programs\Microsoft VS Code\Code.exe" %f
+css "C:\Users\jeffbreno\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+htm "C:\Users\jeffbreno\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+html "C:\Users\jeffbreno\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+ini "C:\Users\jeffbreno\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+js "C:\Users\jeffbreno\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+json "C:\Users\jeffbreno\AppData\Local\Programs\Microsoft VS Code\Code.exe" %f
 map C:\WINDOWS\system32\OpenWith.exe %f
-md "C:\Users\jeffersonlopes\AppData\Local\Programs\Microsoft VS Code\Code.exe" %f
-php "C:\Users\jeffersonlopes\AppData\Local\Programs\Microsoft VS Code\Code.exe" %f
+md "C:\Users\jeffbreno\AppData\Local\Programs\Microsoft VS Code\Code.exe" %f
+php "C:\Users\jeffbreno\AppData\Local\Programs\Microsoft VS Code\Code.exe" %f
 php_ C:\WINDOWS\system32\OpenWith.exe %f</Setting>
 		<Setting name="Site Manager position">0 -20 59 1370 563 </Setting>
 		<Setting name="Greeting resources" />
