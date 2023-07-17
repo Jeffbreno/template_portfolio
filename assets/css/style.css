@@ -14,8 +14,8 @@
 :root {
     --gb-color: #1f242d;
     --second-bg-color: #323946;
-    --text-color: #fff;
-    --main-color: #0ef;
+    --text-color: #ffffff;
+    --main-color: #3eb8fd;
 }
 
 html {
@@ -82,7 +82,7 @@ section {
 }
 
 .home-img img {
-    width: 35vw;
+    width: 25vw;
     animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -171,8 +171,8 @@ span {
     background: var(--second-bg-color);
 }
 
-.abaout-img img {
-    width: 35vw;
+.about-img img {
+    width: 25vw;
 }
 
 .heading {
@@ -459,8 +459,9 @@ span {
     }
 
     .home-img img {
-        width: 70vw;
-        margin-top: 4rem;
+        width: 55vw;
+        margin-top: 2rem;
+        box-shadow: 0 0 5rem var(--main-color);
     }
 
     .about {
@@ -468,8 +469,8 @@ span {
     }
 
     .about img {
-        width: 70vw;
-        margin-top: 4rem;
+        width: 55vw;
+        margin-top: 2rem;
     }
 
     .services h2 {
