@@ -51,9 +51,9 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*typed js*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Developer', 'FrontEnd', 'BackEnd', 'MySQL', 'SQL Server'],
-    typeSpeed: 100,
-    backSpeed: 100,
-    backDelay: 100,
+    strings: ['Vue', 'React', 'Bootstrap', 'MySQL', 'SQL Server', 'DJango', 'Laravel'],
+    typeSpeed: 50,
+    backSpeed: 50,
+    backDelay: 50,
     loop: true
 });

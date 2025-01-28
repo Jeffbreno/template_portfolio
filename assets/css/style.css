@@ -516,3 +516,45 @@ span {
         margin-top: 2rem;
     }
 }
+
+.language-switch {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+  }
+  
+  .language-switch button {
+    background-color: transparent;
+    border-radius: 10%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .language-switch button img {
+    width: 25px;
+    height: auto;
+    border-radius: 10%;
+    transition: transform 0.3s ease;
+  }
+  
+  .language-switch button:hover {
+    background-color: #007bff;
+    border-color: #007bff;
+    box-shadow: 0 6px 12px rgba(0, 123, 255, 0.4);
+  }
+  
+  .language-switch button:hover img {
+    transform: scale(1.1);
+  }
+  
+  .language-switch button:active {
+    transform: scale(0.95);
+  }
+  
